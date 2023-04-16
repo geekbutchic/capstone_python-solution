@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "astype",
+        "autopct",
+        "barh",
+        "DATASCIENCE",
+        "hiredate",
+        "isna",
+        "matplotlib",
+        "pyplot",
+        "SMIKEV",
+        "termdate",
+        "xlabel",
+        "ylabel"
+    ],
+    "python.formatting.provider": "none",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    }
+}
